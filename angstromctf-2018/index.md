@@ -1,5 +1,5 @@
 # AngstromCTF 2018
-### Challenges I wrote:
+Challenges I wrote:
 - [Sequel](sequel.md), 50 pts
 - [Weird Message](weirdmessage.md), 100 pts
 - [File Storer](filestorer.md), 160 pts
