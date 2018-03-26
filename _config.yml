@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
 title: kmh's writeups
+site.baseurl: /writeups
