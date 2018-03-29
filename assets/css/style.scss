@@ -8,3 +8,7 @@ $section-headings-color: #efb700;
 $body-link-color: #dbb93f;
 
 @import "{{ site.theme }}";
+
+.project-tagline {
+  opacity: 0.9;
+}
