@@ -2,7 +2,7 @@
 
 This challenge required breaking Python's random number generator to predict nonces.
 
-My solve script (using [rancrack](https://github.com/tna0y/Python-random-module-cracker)):
+My solve script (using [randcrack](https://github.com/tna0y/Python-random-module-cracker)):
 
 
 ```python
