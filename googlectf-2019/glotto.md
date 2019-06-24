@@ -51,7 +51,7 @@ SELECT * FROM march ORDER BY `winner` -- `
 The `--` comments out the extra backtick to prevent a syntax error.
 
 At this point, it's also important to note that the winning ticket is assigned to an SQL variable that is never used again:
-```sql
+```php
 $db->query("SET @lotto = '$winner'");
 ```
 
