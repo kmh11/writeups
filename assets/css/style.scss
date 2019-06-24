@@ -9,6 +9,11 @@ $body-link-color: #dbb93f;
 
 @import "{{ site.theme }}";
 
+.page-header a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
 .project-tagline {
   opacity: 0.9;
 }
